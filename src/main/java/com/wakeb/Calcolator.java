@@ -9,4 +9,6 @@ public class Calcolator {
     }
 
     // test build trigger "comment" //
+
+    // test build trigger "commit and push" //
 }
